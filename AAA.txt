@@ -1,0 +1,13 @@
+Step 2：把變更加入 commit
+2-1. 加入要提交的檔案：
+bash
+複製
+編輯
+git add .
+或只加特定檔案：
+
+bash
+複製
+編輯
+git add yourfile.txt
+2-2. 提交 commit：
